@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+body{
+    background-color: #d6d4d4;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+.avatar{
+    margin-right:30px;
+    width:200px;
+    border-radius: 50px;
+}
+
+.info{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 30px;
+    font-size: 20px;
+    max-width: 500px
+}
+.info p{
+    color: #86898f;
+}
+.work table{
+    font-family: sans-serif;
+    text-align: left;
+    border-collapse: separate;
+    border-spacing: 5px;
+    background: #ece9e0;
+    color: #656665;
+    border: 16px solid #ece9e0;
+    border-radius: 28px;
+} 
+.work th{
+    font-size: 18px;
+    padding: 10px;
+}
+.work li{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+.work td{
+    font-size: 18px;
+    padding: 10px;
+}
+.social{
+    font-size: 18px;
+}
+
+.container{
+    max-width: 700px;
+    margin: auto;
+}
+
+.table{
+    font-family: sans-serif;
+    text-align: left;
+    border-collapse: separate;
+    border-spacing: 5px;
+    background: #ece9e0;
+    color: #656665;
+    border: 16px solid #ece9e0;
+    border-radius: 28px;
+}
+.table th{
+    font-size: 18px;
+    padding: 10px;
+}
+.table td{
+    color: black;
+    background: #d5d5d5;
+    padding: 10px;
+}
+
+.stack{
+    text-align: left;
+    border-spacing: 5px;
+}
+.stack li{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+}
